@@ -62,7 +62,7 @@ At Nearby Sensor, we develop cutting-edge IoT platforms that collect, analyze, a
 
 ### 🏢 Nearby Sensor | Fullstack Developer
 
-**March 2023 - Present** | Barcelona, Spain  
+**March 2024 - Present** | Barcelona, Spain  
 
 - Develop and maintain IoT dashboards and data visualization tools
 - Implement process automation to enhance application performance
@@ -97,7 +97,7 @@ At Nearby Sensor, we develop cutting-edge IoT platforms that collect, analyze, a
 - **Advanced Vocational Training in Web Application Development** (2019)  
   La Salle Gràcia, Barcelona
 
-## › I'm a [42](https://www.42barcelona.com/es/) student 📄.
+## › I'm a [42](https://www.42barcelona.com/es/) student 📄
 
 <div align="center">
   <img src="https://badge.mediaplus.ma/kettlebells/alejhern?1337Badge=off&UM6P=off"/>
