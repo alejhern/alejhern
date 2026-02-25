@@ -5,7 +5,7 @@
 
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="10%" valign="top">
 
 ## 👨‍💻 About Me
 
@@ -125,9 +125,9 @@ Focus: Full-stack development, Node.js API consumption, MVC PHP/MySQL, scalable 
 
 ---
 
-<td width="5%"></td> <!-- separación -->
+<!-- <td width="5%"></td> separación -->
 
-<td width="35%" valign="top">
+<td width="5%" valign="top">
 
 ## 🛠 Tech Stack
 
